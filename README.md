@@ -37,6 +37,7 @@ int subp;
 
 int roomno,alloroom[10],teachno,classno,i,j,l,r;
 int listsub[700],listclass[700],z=0,temp=1;
+
 int zc[50],temp1,temp2,temp3,cl,period=9,subject1,flag,tred[100];
 float cavg[50],tavg[100];
 int k,m,ii,nn,oo;
